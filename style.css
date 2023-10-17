@@ -1,5 +1,24 @@
 /* || General setup */
 
+body {
+  background-image:url(https://png.pngtree.com/background/20210711/original/pngtree-cartoon-sea-bottom-background-picture-image_1132088.jpg);
+  background-color: hwb(0 100% 0%);
+}
+
+#opciones {
+  list-style: none; /* elimina los puntitos (viñeta) */
+  text-align: center;
+}
+
+#opciones li {
+  display: inline-block; /* la lista la coloca horizontalmente */
+  padding: 20px;
+}
+
+.imgport {
+  width: 150px;
+}
+
 html, body {
     margin: 0;
     padding: 0;
@@ -41,6 +60,7 @@ html, body {
   
   h3 {
     font-size: 2.2rem;
+    text-align: center;
   }
   
   p, li {

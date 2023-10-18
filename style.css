@@ -2,7 +2,7 @@
 
 body {
   background-image:url(https://png.pngtree.com/background/20210711/original/pngtree-cartoon-sea-bottom-background-picture-image_1132088.jpg);
-  background-color: hwb(0 100% 0%);
+  background-color: #35C0B0;
 }
 
 #opciones {
@@ -26,7 +26,7 @@ html, body {
   
   html {
     font-size: 10px;
-    background-color: #a9a9a9;
+    background-color: #238075;
   }
   
   body {
@@ -74,10 +74,10 @@ html, body {
     background-color: white;
     padding: 1%;
   }
-  
+
   nav {
     height: 50px;
-    background-color: #ff80ff;
+    background-color: #93E1D8;
     display: flex;
     margin-bottom: 10px;
   }
@@ -141,7 +141,7 @@ html, body {
   aside {
     flex: 1;
     margin-left: 10px;
-    background-color: #ff80ff;
+    background-color: #93E1D8;
   }
   
   aside li {
